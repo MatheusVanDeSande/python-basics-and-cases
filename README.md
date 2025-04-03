@@ -1,4 +1,4 @@
-Python Basics and Cases 🐍📊
+
 Este repositório contém materiais introdutórios de Python e casos práticos de análise de dados. O objetivo é fornecer uma base sólida para quem está começando a programar e quer aprender aplicando conceitos em situações reais.
 
 📌 O que você encontrará aqui:
